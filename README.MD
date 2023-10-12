@@ -1,0 +1,1 @@
+Simple To-do List App with vanilla JS
